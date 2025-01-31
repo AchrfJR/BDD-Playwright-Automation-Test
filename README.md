@@ -3,7 +3,7 @@
 This project provides an automation testing setup using **Playwright**, **Cucumber**, and **TypeScript**, enabling BDD-style web automation.
 
 ## Features
-- **Playwright for UI Automation**: Supports testing across Chromium, Firefox, and WebKit.
+- **Playwright for UI Automation**: Supports testing with Chromiuma.
 - **Cucumber for BDD**: Implements feature files and step definitions.
 - **TypeScript Support**: Ensures type safety and better maintainability.
 - **Page Object Model (POM)**: Organizes test scripts for reusability.
