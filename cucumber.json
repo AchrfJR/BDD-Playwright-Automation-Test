@@ -1,0 +1,16 @@
+
+{
+    "default" : {
+        "paths" : [
+            "src/tests/features"
+        ],
+        "formatOptions": {
+            "snippetInterface": "async-await"
+        },
+        "dryRun": false,
+        "publishQuit" :  "true" , 
+        "import" : [
+            "src/tests/steps/*.ts"
+        ]
+}}
+
